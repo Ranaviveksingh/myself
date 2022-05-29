@@ -101,8 +101,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Portfólio V1</h3>
-              <p>Uma versão alternativa de meu portfólio, utilizando VueJs.
+              <h3>CIIE Dynamic Pitching system</h3>
+              <p>Made an automated pitching sys
               </p>
             </div>
             <footer>
@@ -125,8 +125,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Dtmoney</h3>
-              <p>Um gerenciador de finanças para analisar seus ganhos, gastos e ter um controle maior de suas finanças.
+              <h3>Coming Soon</h3>
+              <p>Working on it! 😉
               </p>
             </div>
             <footer>
@@ -152,8 +152,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Music Library</h3>
-              <p>Uma interface para uma biblioteca de músicas, semelhante ao Spotify.
+              <h3>Coming Soon</h3>
+              <p>You know what, this is litreally sucking my blood...hope so soon
               </p>
             </div>
             <footer>
