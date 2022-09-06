@@ -14,10 +14,11 @@ export function Hero(){
           <h1>Rana Vivek Singh</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Full-Stack Developer | DevOps Engineer | Web3 | Web Security</h3>
+          <h3>Software Developer | DevOps | SharePoint & MS Teams | Web Security</h3>
+          <h4>Made Best Microsoft Teams app  in the World in 2022</h4>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Three years of experience facilitating cutting-edge engineering solutions with a wide range of web application and technology skills. Proven ability to leverage full-stack expertise to build interactive and user-centered website designs to scale. Extensive expertise in large system architecture development and administration, as well as network design and configuration.
+          <p className="small-resume">Four+ years of experience facilitating cutting-edge engineering solutions with a wide range of web application and technology skills. Proven ability to leverage full-stack expertise to build interactive and user-centered website designs to scale. Extensive expertise in large system architecture development and administration, as well as network design and configuration.
 </p>
         </ScrollAnimation>
 
