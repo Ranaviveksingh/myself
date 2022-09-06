@@ -19,7 +19,8 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>I worked as a Team lead for an Portugal based firm named Videowiki. I was responsible for the frontend and live streaming of the system. I also worked as a Microsoft Teams expert for the firm and made its teams app from scratch along with handeling the bugs in it.</p>
+          <p>I worked as a Team lead for an Portugal based firm named Videowiki.</p>
+            <p>I also worked as a Microsoft Teams expert for the firm and made its teams app from scratch along with handeling the bugs in it.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000} style={{marginTop: "2rem", marginBottom: "2rem"}}>
 

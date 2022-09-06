@@ -24,7 +24,7 @@ export function Portfolio(){
           </div>
           </header>
           <div className="body">
-            <h3>BigBuddy</h3>
+            <h3>BigBuddy Studio</h3>
             <p>Biguddy, is an Artificial Intelligence based online platform which will record and edit your videos in fraction of seconds without any human interference!
             </p>
           </div>
@@ -97,14 +97,14 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://joaotulio.vercel.app/" target="_blank" rel="noreferrer">
+              <a href="https://ciie.bmsedu.in/" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visitar site" />
               </a>
             </div>
             </header>
             <div className="body">
-              <h3>CIIE Dynamic Pitching system</h3>
-              <p>Made an automated pitching sys
+              <h3>CIIE WebPortal</h3>
+              <p>Made an Webportal for the Organization, and integrated with Notion to reduce the maintenance of it.
               </p>
             </div>
             <footer>
@@ -121,14 +121,14 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/joaotuliojt/dtmoney-trilha-reactjs" target="_blank" rel="noreferrer">
-                <img src={githubIcon} alt="Visitar site" />
+              <a href="https://video.wiki" target="_blank" rel="noreferrer">
+                <img src={externalLinkIcon} alt="Visitar site" />
               </a>
             </div>
             </header>
             <div className="body">
-              <h3>Coming Soon</h3>
-              <p>Working on it! 😉
+              <h3>VideoWiki</h3>
+              <p>Worked on this project which is recognized by wikipedia. Played very Vital role in shaping the project and converting an text into an video.
               </p>
             </div>
             <footer>
@@ -145,17 +145,12 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/joaotuliojt/dv-musica-library-page" target="_blank" rel="noreferrer">
-                <img src={githubIcon} alt="Visitar site" />
-              </a>
-              <a href="https://joaotuliojt.github.io/dv-musica-library-page/" target="_blank" rel="noreferrer">
-                <img src={externalLinkIcon} alt="Visitar site" />
-              </a>
+             
             </div>
             </header>
             <div className="body">
-              <h3>Coming Soon</h3>
-              <p>You know what, this is litreally sucking my blood...hope so soon
+              <h3>Auto CRM System for Hiring and other work</h3>
+              <p>Made an Automated bot CRM and rolled it out to various organization. It is being used in the recruitment process of various companies.
               </p>
             </div>
             <footer>
