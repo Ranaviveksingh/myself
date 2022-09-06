@@ -50,7 +50,8 @@ export function Form() {
   return (
     <Container>
       <h2>Text me</h2>
-      <form onSubmit={handleSubmit}>
+      <form action="https://getform.io/f/f28e5f4f-dfd1-418a-b9bd-2a93197cdfe3" method="POST" onSubmit={handleSubmit}>
+        
         <input
           placeholder="Email"
           id="email"
